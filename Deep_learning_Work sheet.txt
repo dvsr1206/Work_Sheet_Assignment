@@ -1,0 +1,29 @@
+1.D
+
+2.D
+
+3.C
+
+4.A
+
+5.A
+
+6.A
+
+7.B
+
+8.A
+
+9.A,B,D
+
+10.B
+
+11.Deep learning is a type of machine learning (ML) and artificial intelligence that imitates the way humans gain certain types of knowledge. Deep learning is an important element of data science, which includes statistics and predictive modeling.
+
+12.Reinforcement learning is also different from what machine learning researchers call unsupervised learning, which is typically about finding structure hidden in collections of unlabeled data.
+
+13.The key difference between deep learning vs machine learning stems from the way data is presented to the system. Machine learning algorithms almost always require structured data, whereas deep learning networks rely on layers of the ANN (artificial neural networks).
+
+14.In machine learning, the perceptron is an algorithm for supervised learning of binary classifiers.
+
+15.AI is a bigger concept to create intelligent machines that can simulate human thinking capability and behavior, whereas, machine learning is an application or subset of AI that allows machines to learn from data without being programmed explicitly.
