@@ -1,0 +1,120 @@
+							WORKSHEET
+						Statistics– WORKSHEET 4
+Q1 to Q9 have only one correct answer. Choose the correct option to answer your question.
+1. Bernoulli random variables take (only) the values 1 and 0.
+a) True
+b) False
+
+An) a) True
+
+2. Which of the following theorem states that the distribution of averages of iid variables, properly
+normalized, becomes that of a standard normal as the sample size increases?
+a) Central Limit Theorem
+b) Central Mean Theorem
+c) Centroid Limit Theorem
+d) All of the mentioned
+
+Ans) b) Central Mean Theorem
+
+3. Which of the following is incorrect with respect to use of Poisson distribution?
+a) Modeling event/time data
+b) Modeling bounded count data
+c) Modeling contingency tables
+d) All of the mentioned
+
+Ans) a) Modeling event/time data
+
+4. Point out the correct statement.
+a) The exponent of a normally distributed random variables follows what is called the lognormal distribution
+b) Sums of normally distributed random variables are again normally distributed even if the
+variables are dependent
+c) The square of a standard normal random variable follows what is called chi-squared
+distribution
+d) All of the mentioned5. __________ random variables are used to model rates.
+a) Empirical
+b) Binomial
+c) Poisson
+d) All of the mentioned
+
+Ans) c) Poisson
+
+6. 10. Usually replacing the standard error by its estimated value does change the CLT.
+a) True
+b) False
+
+Ans) a) True
+
+7. 1. Which of the following testing is concerned with making decisions using data?
+a) Probability
+b) Hypothesis
+c) Causal
+d) None of the mentioned
+
+
+Ans) b) Hypothesis
+
+8. 4. Normalized data are centered at ___ and have units equal to standard deviations of the
+original data.
+a) 0
+b) 5
+c) 1
+d) 10
+
+Ans) a) 0
+
+9. Which of the following statement is incorrect with
+respect to outliers?
+a) Outliers can have varying degrees of influence
+b) Outliers can be the result of spurious or real processes
+c) Outliers cannot conform to the regression relationship
+d) None of the mentioned
+
+Ans) a) Outliers can have varying degrees of influence
+
+
+Q10and Q15 are subjective answer type questions, Answer them in your own words briefly.
+
+10. What do you understand by the term Normal Distribution?
+Ans)    A Normal distribution is when the data points are almost close to each other 
+	and when this is plot on a graph it results in a symmetrical curve also called the bell curve.
+	This implies that the data points under the curve are almost equal on both left and right sides.
+
+11. How do you handle missing data? What imputation techniques do you recommend?
+Ans)  Missing data can be handled in various ways. some of which include;
+	Completely dropping the rows containing those missing data
+	Using the fillna() method
+	Using the Replace() method
+Depending on the nature of data available i recommend the fillna() method where the missing values can 
+either be filled with the mean of the values within that particular column, or with zero, or with the 
+mode of the column in the case of categorical data. 
+
+
+12. What is A/B testing
+Ans) A/B testing refers to the experiments where two or more variations of the same webpage are compared against each other 
+	by displaying them to real-time visitors to determine which one performs better for a given goal.
+	 A/B testing is not limited by web pages only, you can A/B test your emails, popups, sign up forms, apps and more. Nowadays, 
+	most MarTech software comes with an A/B testing function built-in.
+
+13. Is mean imputation of missing data acceptable practice?
+Ans) Yes. Mean imputation for missing data is an acceptable practice.
+
+14. What is linear regression in statistics?
+Ans) Linear Regression in statistics is a model that applies the linear equation y=mx+c to analyze a situation 
+	where the data points are not linear i.e they fall outside of the plotted line. hence the linear regression 
+	tries to calculate the difference from the line to the points which is called errors. the Linear regression 
+	equation then becomes Y = Mx + C + e where M is the slope, x is the independent variable, C is the intercept, 
+	e is the error and Y is the dependent variable.
+
+15. What are the various branches of statistics?A/B testing is a statistical method of comparing two versions which can be reffered to as version A 
+Ans) the two main branches of statistics are Descriptive and Inferential Statistics.Descriptive Statistics can then 
+	be fruther categorised into:
+		Measrues of Central Tendency
+		Measures of Dispersion
+		Measures of Position and 
+		Measures of Frequency
+	Inferential Statistics are further categorised into:
+		Linear Regression
+		Logistic Regression
+		Analysis of Variance 
+		Analysis of Covariance and
+		Statistic Significance (T-Test)
